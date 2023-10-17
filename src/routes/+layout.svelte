@@ -8,6 +8,9 @@
 		<li>
 			<a href="/">Maison</a>
 		</li>
+		<li>
+			<a href="/posts">Posts</a>
+		</li>
 	</ul>
 </header>
 
